@@ -1,1 +1,1 @@
-# MR.box
+# Box Class
